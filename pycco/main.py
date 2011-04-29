@@ -276,6 +276,8 @@ languages = {
 
     ".cpp": { "name": "cpp", "symbol": "//"},
 
+    ".r": { "name": "r", "symbol": "#"},
+
     ".js": { "name": "javascript", "symbol": "//",
         "multistart": "/*", "multiend": "*/"},
 
